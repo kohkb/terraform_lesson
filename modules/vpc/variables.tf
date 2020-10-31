@@ -5,7 +5,7 @@ variable "env" {
 
 variable "service" {
   type    = string
-  default = "es_project"
+  default = "hoge_project"
 }
 
 variable "vpc_cidr" {
